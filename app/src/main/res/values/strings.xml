@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blagnac Race</string>
+
+    <string name="serveur">Adresse du serveur de la course</string>
+    <string name="adresse"> cdam.alwaysdata.net/BR201</string>
+    <string name="nom">Nom de participant</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="cible"></string>
+    <string name="distance_my_location">à %s m de la cible</string>
+    <string name="success_message_title">Bravo !!!</string>
+    <string name="success_message_desc">Vous avez atteint la cible</string>
+
+    <string name="cible_title">Cible</string>
+    <string name="my_location_title">Ma position</string>
+
+    <string name="cible_desc_default">Inconnue</string>
+
+    <string name="wait_race">En attente d\'une course</string>
+    <string name="join_race">Rejoindre une course</string>
+    <string name="leave_race">Quitter la course</string>
+    <string name="leave_app">Quitter l\'application</string>
+    <string name="lisview_menu_send_message_text">Envoyer un message</string>
+
+</resources>

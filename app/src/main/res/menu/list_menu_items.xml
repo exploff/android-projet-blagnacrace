@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_join_race"
+        android:title="@string/join_race"
+        />
+    <item
+        android:id="@+id/lisview_menu_send_message_id"
+        android:title="@string/lisview_menu_send_message_text"
+        />
+    <item
+        android:id="@+id/menu_leave_race"
+        android:title="@string/leave_race"
+        />
+    <item
+        android:id="@+id/menu_leave_app"
+        android:title="@string/leave_app"
+        />
+
+</menu>
